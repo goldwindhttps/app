@@ -16,13 +16,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-				<string>com.tianrun.ronglian</string>
-				<key>bundle-version</key>
-				<string>1.0.2</string>
-				<key>kind</key>
-				<string>software</string>
-				<key>title</key>
-				<string>风享</string>
+		<string>com.tianrun.ronglian</string>
+		<key>bundle-version</key>
+		<string>1.0.2</string>
+		<key>kind</key>
+		<string>software</string>
+		<key>title</key>
+		<string>风享</string>
             </dict>
         </dict>
     </array>
