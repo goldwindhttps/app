@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>http://1.202.243.99:8082/app/1.0.2/fengxiang_1.0.2.ipa</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+				<string>com.tianrun.ronglian</string>
+				<key>bundle-version</key>
+				<string>1.0.2</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>风享</string>
+            </dict>
+        </dict>
+    </array>
+</array>
+</plist>
