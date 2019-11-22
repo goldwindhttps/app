@@ -12,13 +12,13 @@
                     <key>url</key>
                     <string>https://gwscmp.goldwind.com.cn:58084/56001/app/ff8081816387b0e5016387c18bac0001/1.0.2/fengxiang_1.0.2.ipa</string>
                 </dict>
-				<dict>
+		    <dict>
                     <key>kind</key>
                     <string>display-image</string>
                     <key>url</key>
                     <string>https://gwscmp.goldwind.com.cn:58084/56001/app/icon.png</string>
                 </dict>
-				<dict>
+		    <dict>
                     <key>kind</key>
                     <string>full-size-image</string>
                     <key>url</key>
@@ -28,13 +28,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-				<string>com.tianrun.ronglian</string>
-				<key>bundle-version</key>
-				<string>1.0.2</string>
-				<key>kind</key>
-				<string>software</string>
-				<key>title</key>
-				<string>风享</string>
+		<string>com.tianrun.ronglian</string>
+		<key>bundle-version</key>
+		<string>1.0.2</string>
+		<key>kind</key>
+		<string>software</string>
+		<key>title</key>
+		<string>风享</string>
             </dict>
         </dict>
     </array>
